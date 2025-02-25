@@ -27,7 +27,7 @@ A GUI-based Password Analyzer built using Python and Tkinter to evaluate passwor
    ```
 3. Run the application:
    ```sh
-   python password_analyzer.py
+   python password-analyzer.py
    ```
 
 ## 💡 Usage
