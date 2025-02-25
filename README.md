@@ -37,7 +37,7 @@ A GUI-based Password Analyzer built using Python and Tkinter to evaluate passwor
 - 🌗 Use the "Toggle Theme" button to switch between dark and light modes.
 
 ## 🖼 Screenshots
-![light mode](https://github.com/user-attachments/assets/039b9ff7-1677-49de-b772-0a1f73cfd645)![dark mode](https://github.com/user-attachments/assets/dd7d2caa-61c8-4b09-844d-134a30d3f9c3)
+![light mode](https://github.com/user-attachments/assets/039b9ff7-1677-49de-b772-0a1f73cfd645)   ![dark mode](https://github.com/user-attachments/assets/dd7d2caa-61c8-4b09-844d-134a30d3f9c3)
 
 
 
