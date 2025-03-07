@@ -18,7 +18,7 @@ A GUI-based Password Analyzer built using Python and Tkinter to evaluate passwor
 ## 📥 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/password-analyzer.git
+   git clone https://github.com/Ajay-710/password-analyzer.git
    cd password-analyzer
    ```
 2. Install dependencies:
